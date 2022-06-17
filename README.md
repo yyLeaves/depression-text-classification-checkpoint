@@ -1,6 +1,6 @@
 # depression-text-classification
 
-Testing the model [here](Depression Text Classifier Demo.ipynb)!
+Testing the model [here](https://colab.research.google.com/drive/1okFWpBN9Oy6fD53pdHfgncgjoefhj54R?usp=sharing)!
 
 This model are built using BERT, NN, and transfer learning.
 
