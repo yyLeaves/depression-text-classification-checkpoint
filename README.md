@@ -9,7 +9,7 @@ This model are built using BERT, NN, and transfer learning.
 ## Code
 
 - Code of preprocessing, data exploration, visualization, training, testing
-  - [GitHub](jupyter_code/Depression Classifier Model.ipynb)
+  - [GitHub](jupyter_code\Depression Classifier Model.ipynb)
   - [Colab](https://colab.research.google.com/drive/1oAuNqmz2sUSYxTdi_Y2gklcPmsuyclYB?usp=sharing)
 - Code to scrape posts from Reddit using praw
   - [Github](./jupyter%20code/Code Reddit_Scrapper.ipynb)
